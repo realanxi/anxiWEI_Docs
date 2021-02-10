@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:55,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{"\u641c\u7d22\u9875\u9762":0,"\u6a21\u5757\u7d22\u5f15":0,"\u7d22\u5f15":0},titles:["\u6b22\u8fce\u6765\u5230 anxiWEI_Docs \uff01"],titleterms:{"\u6b22\u8fce\u6765\u5230":0,anxiwei_doc:0,document:[],indic:0,tabl:0,welcom:[]}})
